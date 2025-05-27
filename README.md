@@ -20,7 +20,7 @@ A web application created by Zayn Ganiev to showcase portfolio projects and allo
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/portfolio-showcase.git
+   git clone https://github.com/zaynganiev/portfolio-showcase.git
    cd portfolio-showcase
    ```
 
